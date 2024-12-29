@@ -1,8 +1,7 @@
-
-
-## Home Page
-
-### About Me
+---
+permalink: /about/
+title: "About"
+---
 
 Hi there! I am Vladimir Burlay. I am a detail-oriented data scientist and
 storyteller.
