@@ -56,12 +56,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-seo-tag
 
-# Analytics
-analytics:
-  provider               : "google-gtag"
-  google:
-    tracking_id          : "G-HYNJ6LL1M6"
-    anonymize_ip         : false
+
 
 author:
   name   : "Vladimir Burlay"
