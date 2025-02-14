@@ -60,7 +60,7 @@ plugins:
 
 author:
   name   : "Vladimir Burlay"
-  avatar : "/assets/images/bio_photo.png"
+  avatar : "/assets/images/bio_photo.jpg"
   bio    : "Data Science & Analytics, Data Storyteller"
   links:
     - label: "LinkedIn"
